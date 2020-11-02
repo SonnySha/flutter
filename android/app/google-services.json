@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547446174557",
+    "firebase_url": "https://appmovies-59e96.firebaseio.com",
+    "project_id": "appmovies-59e96",
+    "storage_bucket": "appmovies-59e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547446174557:android:4859ab2ea8d070fe1aeeb4",
+        "android_client_info": {
+          "package_name": "com.example.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547446174557-vvspil8jb6mb9hv36mr84hp1gpfb1nev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTd66N4GUXcDM3upPBXG2oScmeABcuN58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547446174557-vvspil8jb6mb9hv36mr84hp1gpfb1nev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
